@@ -1,0 +1,5 @@
+/home/void/Music:
+total 8
+drwxr-xr-x  2 void void 4096 Jan  5 19:23 .
+drwxr-x--- 20 void void 4096 Jan  5 18:30 ..
+-rw-rw-r--  1 void void    0 Jan  5 19:23 wow.mp3
