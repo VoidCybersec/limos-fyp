@@ -1,4 +1,4 @@
 # fyp-fim-thigendra
 
-Lightweight File Intergrity Monitoring System (LFIMS)
+LIMOS
 Built by Thigendra Colin Dupuis A.K.A Void
