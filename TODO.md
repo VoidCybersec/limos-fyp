@@ -19,7 +19,8 @@ Project Description
 - [ ] input sanitization  
 - [ ] root user run checking  
 - [ ] DB implementation  
-- [ ] Login/Signup  
+- [ ] Login/Signup
+- [ ] Check viability of using Docker(??)
 
 ### In Progress
 
